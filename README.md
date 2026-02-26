@@ -24,6 +24,7 @@ pip install pandas numpy scikit-learn matplotlib
 3. Run the notebook:
 
 Open customer_churn.ipynb in Jupyter Notebook or Google Colab
+should upload the dataset while running (in 3rd cell of colab)
 
 ## Project Workflow
 
